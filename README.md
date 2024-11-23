@@ -21,7 +21,7 @@ This webpage displays Weather app designed using HTML, CSS and JavaScript. It fe
 
 ### Links
 
-- Live Site URL: [Live](https://versatile28.github.io/Calculator/)
+- Live Site URL: [Live](https://versatile28.github.io/Weather-App/)
 
 ### Built with
 
